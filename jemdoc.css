@@ -9,8 +9,8 @@ table#tlayout {
 body {
 	background: white;
 	font-family: Georgia, serif,tahoma;
-	padding-bottom: 8px;
-	margin: 0;
+	padding-bottom:0px;
+	margin: 8px;
 }
 
 #layout-menu {
@@ -18,7 +18,7 @@ body {
 	border: 1px solid #dddddd;
 	padding-top: 0.5em;
 	padding-left: 8px;
-	padding-right: 8px;
+	padding-right: 20px;
 	font-size: 1.0em;
 	width: auto;
 	white-space: nowrap;
@@ -32,8 +32,8 @@ body {
 }
 
 #layout-content {
-	padding-top: 0.0em;
-	padding-left: 1.0em;
+	padding-top: 0em;
+	padding-left: 0.0em;
 	padding-right: 1.0em;
     border: none;
     background: white;
@@ -42,7 +42,7 @@ body {
 }
 
 #layout-menu a {
-	line-height: 1.5em;
+	line-height: 0em;
 	margin-left: 0.5em;
 }
 
